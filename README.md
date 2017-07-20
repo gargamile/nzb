@@ -14,4 +14,7 @@ docker run -d \
   -p 8080:8080 \
   --restart=always sabnzbd
 ```
-# nzb
+# nzbd
+
+Based off
+https://hub.docker.com/r/timhaak/sabnzbd/
